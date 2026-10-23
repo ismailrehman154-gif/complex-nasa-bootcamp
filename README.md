@@ -2,6 +2,8 @@
 
 Click a button, get every NASA facility's location plus its current temperature. Two public APIs chained together, one paragraph per facility.
 
+**Live site:** https://complex-nasa-bootcamp.vercel.app
+
 ![NASA Facilities screenshot](screenshot.jpg)
 
 ## How the code works
